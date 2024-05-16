@@ -90,6 +90,6 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation Contribution Graph](https://github.com/ZuleMD/ZuleMD/blob/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
  
