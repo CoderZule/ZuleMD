@@ -3,7 +3,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
  
 <p align="center">
-<a href="https://github.com/ZuleMD">
+<a href="https://github.com/CoderZule">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web/Mobile+Developer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
@@ -12,7 +12,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZuleMD%2FZuleMD&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCoderZule%2FCoderZule&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
 <br>
 
@@ -82,7 +82,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ![ZuleMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) 
+ ![CoderZule GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderZule&theme=tokyonight) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
