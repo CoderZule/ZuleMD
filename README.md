@@ -86,19 +86,14 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
  ![CoderZule GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderZule&theme=tokyonight) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=algolia&langs_count=8" alt="Most Used Languages" />
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Most Used Languages ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## :bar_chart: Most Used Languages
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=algolia&langs_count=8" alt="Most Used Languages" />
-  </a>
-</p>
+ 
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
