@@ -36,7 +36,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Skills? 
 <div align="center">
      <img src="https://img.shields.io/badge/React-Native-339933?style=for-the-badge&logo=reactnative&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/><br>
@@ -81,6 +81,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+# 📊 GitHub Stats
 
  ![CoderZule GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderZule&theme=tokyonight) 
 
@@ -89,7 +90,8 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Profile Trophies ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-# :trophy: Git profile Trophies
+
+# :trophy: GitHub Profile Trophies
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -101,6 +103,8 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# 🐍 Snake Contribution Graph
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
