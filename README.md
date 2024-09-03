@@ -36,7 +36,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Skills? 
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Skills
 <div align="center">
      <img src="https://img.shields.io/badge/React-Native-339933?style=for-the-badge&logo=reactnative&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/><br>
