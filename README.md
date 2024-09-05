@@ -4,7 +4,7 @@
  
 <p align="center">
 <a href="https://github.com/CoderZule">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=600&height=45&lines=Junior+Full+Stack+Web+%7C+Mobile+App+Developer;Enjoy+learning+Algorithms;Building+Something+Creative" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=75A4FC&width=600&height=45&lines=Junior+Full+Stack+Web+%7C+Mobile+App+Developer;Enjoy+learning+Algorithms;Building+Something+Creative" />
 </a>
 </p>
 
