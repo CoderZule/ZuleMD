@@ -15,7 +15,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCoderZule%2FCoderZule&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCoderZule%2FCoderZule&label=VISITORS&labelColor=%23007EC6&countColor=%23ffffff" />
 </div>
 <br>
 
